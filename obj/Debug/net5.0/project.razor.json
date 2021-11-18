@@ -233,39 +233,6 @@
         }
       },
       {
-        "HashCode": 621755566,
-        "Kind": "Components.Component",
-        "Name": "PAS.Pages.Counter",
-        "AssemblyName": "PAS",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "PAS.Pages.Counter"
-        }
-      },
-      {
-        "HashCode": 241900642,
-        "Kind": "Components.Component",
-        "Name": "PAS.Pages.Counter",
-        "AssemblyName": "PAS",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "PAS.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "PAS.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -1134761802,
         "Kind": "Components.Component",
         "Name": "PAS.Pages.FetchData",
@@ -299,6 +266,39 @@
         }
       },
       {
+        "HashCode": 621755566,
+        "Kind": "Components.Component",
+        "Name": "PAS.Pages.Counter",
+        "AssemblyName": "PAS",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "PAS.Pages.Counter"
+        }
+      },
+      {
+        "HashCode": 241900642,
+        "Kind": "Components.Component",
+        "Name": "PAS.Pages.Counter",
+        "AssemblyName": "PAS",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "PAS.Pages.Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "PAS.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -187377260,
         "Kind": "Components.Component",
         "Name": "PAS.Pages.Index",
@@ -328,39 +328,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "PAS.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -709163048,
-        "Kind": "Components.Component",
-        "Name": "PAS.App",
-        "AssemblyName": "PAS",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "PAS.App"
-        }
-      },
-      {
-        "HashCode": -737695697,
-        "Kind": "Components.Component",
-        "Name": "PAS.App",
-        "AssemblyName": "PAS",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "PAS.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "PAS.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -414,6 +381,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "PAS.Shared.SurveyPrompt",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1247841369,
+        "Kind": "Components.Component",
+        "Name": "PAS.Shared.NavMenu",
+        "AssemblyName": "PAS",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "PAS.Shared.NavMenu"
+        }
+      },
+      {
+        "HashCode": -365035719,
+        "Kind": "Components.Component",
+        "Name": "PAS.Shared.NavMenu",
+        "AssemblyName": "PAS",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "PAS.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "PAS.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -514,35 +514,35 @@
         }
       },
       {
-        "HashCode": -1247841369,
+        "HashCode": -709163048,
         "Kind": "Components.Component",
-        "Name": "PAS.Shared.NavMenu",
+        "Name": "PAS.App",
         "AssemblyName": "PAS",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "NavMenu"
+            "TagName": "App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "PAS.Shared.NavMenu"
+          "Common.TypeName": "PAS.App"
         }
       },
       {
-        "HashCode": -365035719,
+        "HashCode": -737695697,
         "Kind": "Components.Component",
-        "Name": "PAS.Shared.NavMenu",
+        "Name": "PAS.App",
         "AssemblyName": "PAS",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "PAS.Shared.NavMenu"
+            "TagName": "PAS.App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "PAS.Shared.NavMenu",
+          "Common.TypeName": "PAS.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
